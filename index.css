@@ -1,0 +1,72 @@
+
+html {
+    background-color: rgb(235, 158, 16);
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+
+
+/* slideshow styles */
+
+
+
+
+.cycle-slideshow {
+    margin-bottom: 30px;
+    margin-top: 40px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-left: 42%;
+    margin-top: 10%;
+
+}
+
+.slide {
+    width:100%;
+    position: relative;
+}
+
+.slide-text {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    box-sizing: border-box;
+    
+}
+
+.para-1 {
+    width: 259px;
+}
+ .para-2 {
+     width:225px ;
+ }
+
+ .para-3 {
+     width:285px ;
+ }
+ .para-4 {
+     width:275px ;
+ }
+    
+
+
+    
+    
+
+    
+
+.slide img{
+    display: block;
+}
+.slide-text h3 {
+    margin: 0;
+
+}
+.slide-text p {
+    margin: 0;
+}
